@@ -1,0 +1,6 @@
+{
+  "name": "VROM Token",
+  "symbol": "VROM",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/vroomanj/token0/refs/heads/main/coin.png"
+}
